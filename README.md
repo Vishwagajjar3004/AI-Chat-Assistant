@@ -1,4 +1,4 @@
-# AI Chat Assistant (100% local)
+# AI Chat Assistant 
 
 A ChatGPT-style assistant that runs entirely on your computer.
 
