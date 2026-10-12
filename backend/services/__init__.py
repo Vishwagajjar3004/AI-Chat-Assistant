@@ -1,0 +1,1 @@
+"""Service layer (Ollama integration)."""
